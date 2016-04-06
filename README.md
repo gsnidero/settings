@@ -1,2 +1,2 @@
 # test
-my test
+* test *
