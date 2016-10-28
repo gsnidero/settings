@@ -1,4 +1,4 @@
-### Install list
+### Install list for Mac
 
 * Chrome
 * Alfred: app store
