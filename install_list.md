@@ -11,6 +11,7 @@
 * go2Shell: http://zipzapmac.com/Go2Shell
 * Skype
 * Atom
-* PyCharm
-
 * Anaconda
+* PyCharm
+* spark : http://spark.apache.org/
+* JDK http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.htmla
