@@ -13,7 +13,10 @@
 * Atom
 * Anaconda
 * PyCharm
-* spark : http://spark.apache.org/
-* JDK http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.htmla
+* docker
+* fileZilla
 * dropbox
 * google drive
+* spark : http://spark.apache.org/
+* JDK http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.htmla
+* R, RStudio: 
