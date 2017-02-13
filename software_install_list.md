@@ -3,8 +3,8 @@
 * Chrome
 * Alfred 3: https://www.alfredapp.com/
 * Menu meters: http://member.ipmu.jp/yuji.tachikawa/MenuMetersElCapitan/
-* caffeine: https://github.com/newmarcel/KeepingYouAwake
-* spectacle: https://www.spectacleapp.com/
+* Caffeine: https://github.com/newmarcel/KeepingYouAwake
+* Spectacle: https://www.spectacleapp.com/
 * command line tools: use git command and you’ll be prompted
 * Karabinier
 * AppUnistaller: https://freemacsoft.net/appcleaner/
@@ -13,10 +13,13 @@
 * Atom
 * Anaconda
 * PyCharm
-* docker
-* fileZilla
-* dropbox
-* google drive
-* spark : http://spark.apache.org/
+* Docker
+* FileZilla
+* Dropbox
+* Google drive
+* Spark : http://spark.apache.org/
 * JDK http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.htmla
-* R, RStudio: 
+* R, RStudio
+* Slack
+* Paintbrush
+
