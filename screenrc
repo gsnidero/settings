@@ -1,0 +1,31 @@
+# look and feel
+# basic
+caption always "%{Gk} %H: %{Bk}| %{Ck}%-w%50>%{Cb} %n %t %{-}%+w%<%{- Wk}%{Bk} | %=%{Wb}"
+sorendition "+b kW"
+# sorendition "+b kG"
+
+# techno
+# hardstatus alwayslastline
+# hardstatus string '%{gk}[ %{G}%H %{g}][%= %{wk}%?%-Lw%?%{=b kR} (%{W}%n*%f %t%?(%u)%?%{=b kR})%{= kw}%?%+Lw%?%?%= %{g}] [ %m/%d %c ]%{W}'
+# hardstatus string "%-Lw%{= BW}%50>%n%f* %t%{-}%+Lw%<"
+# hardstatus string '%{gk}[ %{G}%H %{g}][%= %{wk}%?%-Lw%?%{=b kR} (%{W}%n*%f %t%?(%u)%?%{=b kR})%{= kw}%?%+Lw%?%?%= %{g}][%{Y}%l%{g}] %{=b C}[ %m/%d %c ]%{W}'
+# hardstatus alwayslastline "%{+b kr}[ %H ] %{ky} Load: %l %-=%{kb} %c  %d.%m.%Y"
+
+# Set default lines of scrollback.
+defscrollback         30000            # default: 100
+
+# Use audio bell instead of visual  bell.
+# vbell                 off
+
+# Run a screensaver if there's nothing happening for a while.
+# idle 420 eval "screen cmatrix -f -o -u 10" "idle 0"
+
+# def start windows
+screen -ln -t "random" 0
+
+# screen commands key
+# escape ^pp
+# escape ``
+# escape ^zz
+
+shell -$SHELL
