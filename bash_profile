@@ -33,7 +33,7 @@ alias lr='ls -olhR'          # recursive ls
 alias rm='rm -i'
 alias mv='mv -i'
 alias cp='cp -i'
-#alias rmbackupfiles='rm -fr *~'
+# alias rmbackupfiles='rm -fr *~'
 
 alias mkdir='mkdir -p'
 alias ..='cd ..'
@@ -49,21 +49,15 @@ alias c='clear'
 alias du='du -kh'
 alias df='df -kTh'
 
-# alias emacs='/Applications/Emacs.app/Contents/MacOS/Emacs "$@"'
 alias e='emacs -nw'
 alias nb='jupyter notebook'
 
-function mkcd()
-{
-    mkdir $1 && eval cd $1
-}
 
 ##########################
 # Extra
 ###########################
 
-# # added by Anaconda2 4.0.0 installer
-# export PATH="/Users/sniderog/anaconda2/bin:$PATH"
+# export PATH="/Users/sniderog/anaconda/bin:$PATH"
 #
 #
 # # spark setting
@@ -74,3 +68,11 @@ function mkcd()
 
 # rsync -auv QA go:giaco_python
 # rsync -av --partial --progress --rsh=ssh bss_campaign_agg.parquet
+
+
+# function mkcd()
+# {
+#     mkdir $1 && eval cd $1
+# }
+
+#alias milan355='ssh -L 23046:localhost:23046 milan-discovery-data-355'
